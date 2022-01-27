@@ -61,7 +61,7 @@ class MotorDriver():
         """!
         Accepts a duty cycle percentage and sets it as a pwm to nucleo channels.
         Sets the duty to move motor backwards or forwards.
-        @param Duty is the PWM a user wants to run the motor at.
+        @param duty is the PWM a user wants to run the motor at.
         """
         
         # Make motor rotate forwards if positive duty cycle

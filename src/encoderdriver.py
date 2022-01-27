@@ -1,5 +1,5 @@
 """!
-@file motordriver.py
+@file encoderdriver.py
 This file configures Nucleo pins, timers, and channels for so that it can send voltage to a motor.
 Can send a PWM duty cycle to the motor to control how fast the motor spins. Uses a L6206 motor shield to control motor direction.
 @author Jacob Wong
